@@ -4,6 +4,8 @@
 
 Welcome to RapidQR, a user-friendly and efficient QR code generator. With RapidQR, you can quickly generate QR codes with custom data and resolution. 
 
+![RapidQR](https://github.com/ThatSINEWAVE/RapidQR/assets/133239148/10f582c9-5b8b-48fa-9caa-d9ff417b8928)
+
 </div>
 
 ## Features
