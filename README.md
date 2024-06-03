@@ -1,6 +1,6 @@
 <div align="center">
 
-# RapidQR
+# [RapidQR](https://thatsinewave.github.io/RapidQR/)
 
 Welcome to RapidQR, a user-friendly and efficient QR code generator. With RapidQR, you can quickly generate QR codes with custom data and resolution. 
 
